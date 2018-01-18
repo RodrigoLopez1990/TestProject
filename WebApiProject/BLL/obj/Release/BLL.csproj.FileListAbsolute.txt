@@ -1,9 +1,0 @@
-C:\Users\rodri\onedrive\documentos\visual studio 2015\Projects\WebApiProject\BLL\bin\Release\BLL.dll
-C:\Users\rodri\onedrive\documentos\visual studio 2015\Projects\WebApiProject\BLL\bin\Release\BLL.pdb
-C:\Users\rodri\onedrive\documentos\visual studio 2015\Projects\WebApiProject\BLL\bin\Release\DAL.dll
-C:\Users\rodri\onedrive\documentos\visual studio 2015\Projects\WebApiProject\BLL\bin\Release\EntityFramework.dll
-C:\Users\rodri\onedrive\documentos\visual studio 2015\Projects\WebApiProject\BLL\bin\Release\DAL.pdb
-C:\Users\rodri\onedrive\documentos\visual studio 2015\Projects\WebApiProject\BLL\bin\Release\EntityFramework.xml
-C:\Users\rodri\onedrive\documentos\visual studio 2015\Projects\WebApiProject\BLL\obj\Release\BLL.csprojResolveAssemblyReference.cache
-C:\Users\rodri\onedrive\documentos\visual studio 2015\Projects\WebApiProject\BLL\obj\Release\BLL.dll
-C:\Users\rodri\onedrive\documentos\visual studio 2015\Projects\WebApiProject\BLL\obj\Release\BLL.pdb

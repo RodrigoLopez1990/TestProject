@@ -1,8 +1,0 @@
-C:\Users\rodri\onedrive\documentos\visual studio 2015\Projects\WebApiProject\WebApiProject.Test\bin\Debug\WebApiProject.Test.dll
-C:\Users\rodri\onedrive\documentos\visual studio 2015\Projects\WebApiProject\WebApiProject.Test\bin\Debug\WebApiProject.Test.pdb
-C:\Users\rodri\onedrive\documentos\visual studio 2015\Projects\WebApiProject\WebApiProject.Test\bin\Debug\BLL.dll
-C:\Users\rodri\onedrive\documentos\visual studio 2015\Projects\WebApiProject\WebApiProject.Test\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
-C:\Users\rodri\onedrive\documentos\visual studio 2015\Projects\WebApiProject\WebApiProject.Test\bin\Debug\BLL.pdb
-C:\Users\rodri\onedrive\documentos\visual studio 2015\Projects\WebApiProject\WebApiProject.Test\obj\Debug\WebApiProject.Test.csprojResolveAssemblyReference.cache
-C:\Users\rodri\onedrive\documentos\visual studio 2015\Projects\WebApiProject\WebApiProject.Test\obj\Debug\WebApiProject.Test.dll
-C:\Users\rodri\onedrive\documentos\visual studio 2015\Projects\WebApiProject\WebApiProject.Test\obj\Debug\WebApiProject.Test.pdb
