@@ -1,0 +1,10 @@
+Instrucciones Servicio de cotizacion
+
+Ejemplos de requests
+
+* Get Usuarios
+http://direccion/api/cotizacion/dolar
+http://direccion/api/cotizacion/peso
+http://direccion/api/cotizacion/real
+
+

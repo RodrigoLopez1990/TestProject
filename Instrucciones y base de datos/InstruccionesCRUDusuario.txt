@@ -1,0 +1,27 @@
+Instrucciones CRUD Usuarios
+
+Ejemplos de requests
+
+* Get Usuarios
+http://direccion/api/usuarios
+
+
+* Alta
+http://direccion/api/usuarios
+Post
+Content-type: application/json    <-   en la cabecera del mensaje
+Body
+{"Name":"Rodrigo","LastName":"López","EMail":"rodrigo.lopez@hotmail.com","Password":"Pass.001"}
+
+
+* Modificacion
+http://direccion/api/usuarios/1    <-Id user
+Content-type: application/json    <-   en la cabecera del mensaje
+Put
+Body
+{"Name":"RodrigoModificado","LastName":"López2","EMail":"rodo.lopez@gmail.com","Password":"Pass.001"}
+
+
+* Baja
+http://direccion/api/usuarios/1    <-Id user
+Delete
