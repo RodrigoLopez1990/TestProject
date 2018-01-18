@@ -1,0 +1,4 @@
+- Dentro del zip webApiProyect se encuentra la aplicación lista para publicar en IIS.
+- Dejé el script "CreateTestDataBase.sql" para la creación de la base.
+- En los otros dos archivos "InstruccionesCotizacion.txt" e "InstruccionesCRUDusuario.txt" se encuentran los 
+ejemplos de requests para probarla.
