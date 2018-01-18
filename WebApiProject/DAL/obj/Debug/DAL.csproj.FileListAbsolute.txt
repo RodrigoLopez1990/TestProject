@@ -1,0 +1,9 @@
+c:\users\rodri\onedrive\documentos\visual studio 2015\Projects\WebApiProject\DAL\bin\Debug\DAL.dll
+c:\users\rodri\onedrive\documentos\visual studio 2015\Projects\WebApiProject\DAL\bin\Debug\DAL.pdb
+c:\users\rodri\onedrive\documentos\visual studio 2015\Projects\WebApiProject\DAL\obj\Debug\DAL.dll
+c:\users\rodri\onedrive\documentos\visual studio 2015\Projects\WebApiProject\DAL\obj\Debug\DAL.pdb
+c:\users\rodri\onedrive\documentos\visual studio 2015\Projects\WebApiProject\DAL\bin\Debug\DAL.dll.config
+c:\users\rodri\onedrive\documentos\visual studio 2015\Projects\WebApiProject\DAL\bin\Debug\EntityFramework.dll
+c:\users\rodri\onedrive\documentos\visual studio 2015\Projects\WebApiProject\DAL\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\rodri\onedrive\documentos\visual studio 2015\Projects\WebApiProject\DAL\bin\Debug\EntityFramework.xml
+c:\users\rodri\onedrive\documentos\visual studio 2015\Projects\WebApiProject\DAL\bin\Debug\EntityFramework.SqlServer.xml

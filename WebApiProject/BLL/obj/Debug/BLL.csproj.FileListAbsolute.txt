@@ -1,0 +1,9 @@
+c:\users\rodri\onedrive\documentos\visual studio 2015\Projects\WebApiProject\BLL\bin\Debug\BLL.dll
+c:\users\rodri\onedrive\documentos\visual studio 2015\Projects\WebApiProject\BLL\bin\Debug\BLL.pdb
+c:\users\rodri\onedrive\documentos\visual studio 2015\Projects\WebApiProject\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+c:\users\rodri\onedrive\documentos\visual studio 2015\Projects\WebApiProject\BLL\obj\Debug\BLL.dll
+c:\users\rodri\onedrive\documentos\visual studio 2015\Projects\WebApiProject\BLL\obj\Debug\BLL.pdb
+C:\Users\rodri\onedrive\documentos\visual studio 2015\Projects\WebApiProject\BLL\bin\Debug\DAL.dll
+C:\Users\rodri\onedrive\documentos\visual studio 2015\Projects\WebApiProject\BLL\bin\Debug\EntityFramework.dll
+C:\Users\rodri\onedrive\documentos\visual studio 2015\Projects\WebApiProject\BLL\bin\Debug\DAL.pdb
+C:\Users\rodri\onedrive\documentos\visual studio 2015\Projects\WebApiProject\BLL\bin\Debug\EntityFramework.xml
